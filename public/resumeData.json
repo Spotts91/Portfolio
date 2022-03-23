@@ -96,7 +96,7 @@
           "title":"Recipedia",
           "shorttitle": "Recipedia",
           "category":"Academic (group) project",
-          "image":"Recipedia.png",
+          "image":"./images/Recipedia.png",
           "info":"HTML, CSS, JS, Bootstrap",
           "url":"https://spotts91.github.io/Recipedia/",
           "repo":"https://github.com/Spotts91/Recipedia"
@@ -105,7 +105,7 @@
           "title":"Tic-Tac-Toe Vocabulary",
           "shorttitle": "Tic-Tac-Toe Vocab",
           "category":"Academic (group) Project",
-          "image":"TicTacToe.png",
+          "image":"./images/TicTacToe.png",
           "info":"Express, Handlebars, Nodejs, SQL, HTML, CSS, JS, jQuery",
           "url":"To be updated.",
           "repo":"https://github.com/AndrewCLeonard/tic-tac-toe-vocab"
@@ -114,7 +114,7 @@
           "title":"Note Taker",
           "shorttitle": "Note taker",
           "category":"Academic Project",
-          "image":"noteTaker.png",
+          "image":"./images/noteTaker.png",
           "info":"Nodejs, Express, SQL, HTML, CSS, JS",
           "url":"https://notetaker-spotts.herokuapp.com/",
           "repo":"https://github.com/Spotts91/Note-Taker"
@@ -123,7 +123,7 @@
           "title":"Employee Tracker",
           "shorttitle": "Employee Tracker",
           "category":"Academic Project",
-          "image":"employeeTracker.png",
+          "image":"./images/employeeTracker.png",
           "info":"Nodejs, JS, SQL",
           "url":"Local Storage",
           "repo":"https://github.com/Spotts91/Employee-Tracker"
@@ -132,7 +132,7 @@
           "title":"Budget Tracker PWA",
           "shorttitle": "Budget Tracker",
           "category":"Academic Project",
-          "image":"Budget.png",
+          "image":"./images/Budget.png",
           "info":"MongoDB, Mongoose, webpack, service-worker, Express, Nodejs",
           "url":"https://spotts91-budget.herokuapp.com/",
           "repo":"https://github.com/Spotts91/Budget-Tracker"
@@ -141,7 +141,7 @@
           "title":"E-Commerce Backend",
           "shorttitle": "E-Commerce Backend",
           "category":"Academic Project",
-          "image":"eCommerce.png",
+          "image":"./images/eCommerce.png",
           "info":"MySql, Express, Nodejs, Handlebars, HTML, CSS, JS, Bootstrap, jQuery",
           "url":"local storage",
           "repo":"https://github.com/Spotts91/E-Commerce-Backend"
