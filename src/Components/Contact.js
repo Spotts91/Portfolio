@@ -96,7 +96,7 @@ class Contact extends Component {
 						   {name}<br />
 						   <span>{phone}</span><br />
                      <span>{email}</span><br />
-                     {city}, {state} (willing to relocate)<br />
+                     {city}, {state}<br />
 					   </p>
 				   </div>
 
