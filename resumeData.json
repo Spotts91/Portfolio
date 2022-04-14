@@ -147,13 +147,13 @@
           "repo":"https://github.com/Spotts91/E-Commerce-Backend"
         },
         {
-          "title":"",
-          "shorttitle": "",
-          "category":"",
-          "image":"",
-          "info":"",
-          "url":"",
-          "repo":""
+          "title":"All in One Media",
+          "shorttitle": "AIM",
+          "category":"Academic (group) Project",
+          "image":"AIM.png",
+          "info":"Nodejs, Express, React, MongoDB, Mongoose, GraphQL",
+          "url":"https://all-in-one-media.herokuapp.com/",
+          "repo":"https://github.com/Acoleman37/media-app"
         },
         {
           "title":"",
